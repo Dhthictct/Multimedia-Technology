@@ -1,0 +1,9 @@
+D:\学习文件\大三上\多媒体技术\Transform\Transform\bin\Debug\Transform.exe.config
+D:\学习文件\大三上\多媒体技术\Transform\Transform\bin\Debug\Transform.exe
+D:\学习文件\大三上\多媒体技术\Transform\Transform\bin\Debug\Transform.pdb
+D:\学习文件\大三上\多媒体技术\Transform\Transform\obj\Debug\Transform.csprojResolveAssemblyReference.cache
+D:\学习文件\大三上\多媒体技术\Transform\Transform\obj\Debug\Transform.Form1.resources
+D:\学习文件\大三上\多媒体技术\Transform\Transform\obj\Debug\Transform.Properties.Resources.resources
+D:\学习文件\大三上\多媒体技术\Transform\Transform\obj\Debug\Transform.csproj.GenerateResource.Cache
+D:\学习文件\大三上\多媒体技术\Transform\Transform\obj\Debug\Transform.exe
+D:\学习文件\大三上\多媒体技术\Transform\Transform\obj\Debug\Transform.pdb
